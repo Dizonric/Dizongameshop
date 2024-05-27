@@ -1,0 +1,40 @@
+h2{
+color: white;
+}
+
+p{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+.navbar {
+  background-color: #00abff;
+  overflow: hidden;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navbar a.active {
+  background-color: #00abff;
+  }
+button{
+    background-color: #00abff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
